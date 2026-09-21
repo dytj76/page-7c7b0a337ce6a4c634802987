@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a60010241fa640ee7c04ed86",
+  "owner": "dytj76",
+  "repo": "page-7c7b0a337ce6a4c634802987",
+  "title": "咪萌",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7c7b0a337ce6a4c634802987",
+      "a": "咪萌",
+      "b": "机场官网线路发布页",
+      "entity": "咪萌",
+      "brand": "咪萌",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7efef00424e23e1fdd4ba52e19f9d091cde04f8873ffc60949f58f37fd29fa87",
+      "content": {
+        "primary_entity": "咪萌",
+        "keyword1": "咪萌",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，咪萌提供基础版、旗舰版与团队版三档海外加速套餐，月付与年付可选，覆盖 100GB 至 1000GB 流量与 3 至 20 台设备同时在线。旗舰版与团队版分别配有 IPLC 专线优化和 VIP 专属高带宽节点，订阅后按客户端配置即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐适配不同设备数量",
+          "AI_HERO_INTRO": "咪萌海外加速服务按设备与流量划分套餐，基础版适合个人轻量使用，旗舰版增加专线优化与优先支持，团队版针对多设备和企业路由需求。选择时可先确认常用设备台数、月度流量及订阅周期，再对照套餐权益完成订阅。",
+          "AI_VISUAL_TITLE": "咪萌海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 到 1000GB",
+          "AI_HIGHLIGHT_2": "按设备数量选择同时在线台数",
+          "AI_HIGHLIGHT_3": "年付方案降低单月使用成本",
+          "AI_FEATURES_TITLE": "特点",
+          "AI_FEATURES_INTRO": "从流量、设备与订阅周期三个角度介绍咪萌套餐的配置方式。",
+          "AI_FEATURE_TITLE_1": "流量档位清晰",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按实际用量选择。",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供月付与年付，年付价格约为月付的十个月。",
+          "AI_CLIENTS_TITLE": "客户端",
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅导入方式请参考客户端文档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。旗舰版含 IPLC 专线与优先工单支持，团队版含 VIP 高带宽节点与企业定制路由。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按三个步骤操作即可使用咪萌。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备台数、月流量和预算，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所选套餐的同时在线设备数量与客户端支持情况，规划订阅周期。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在选定客户端中依照其文档导入订阅信息，即可按套餐权益使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "咪萌基础版可以几台设备同时在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机、平板或电脑等少量设备使用。若需要更多设备，可查看旗舰版 5 台或团队版 20 台的方案。",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版的主要差别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量、支持 5 台设备，并包含全节点原生流媒体解锁、IPLC 专线游戏加速优化和优先工单支持，基础版为每月 100GB、3 台设备与普通线路节点池。",
+          "AI_FAQ_QUESTION_3": "年付和月付如何选择？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。长期使用可考虑年付，短期体验可选月付。",
+          "AI_FAQ_QUESTION_4": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量、支持 20 台设备同时在线，配有 VIP 专属高带宽节点，并支持企业定制路由和专属客户经理服务，适合多人协作或多设备环境。",
+          "AI_FAQ_QUESTION_5": "订阅配置后需要做什么？",
+          "AI_FAQ_ANSWER_5": "在对应客户端中按文档完成订阅导入，确认设备数量与套餐权益一致，之后保持客户端正常连接即可使用咪萌线路。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅配置即可开始使用咪萌。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vipenf.cn",
+    "host": "vipenf.cn"
+  },
+  "file_hashes": {
+    "index.html": "d44f8305212d27766b9ee84cde346c92e20fb30c9968c32865e738cc34f61b6d",
+    "sitemap.xml": "2d889f895cf1d3a71535de2fa1acccc2c16923a3c8dd08bfb5ba746a35cbc654",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dbacfdbaadf308df701d78b7c4d1f1f4457339b81f6a4bf55233ce8fd51fdcaa",
+    "robots.txt": "a614ae9b97fbdbf2fcb054ecf2ab235887e1dbdea42d59308ab1486bffbf5a19",
+    "dc5fcce71356cef0b633eda07875b89a.txt": "0821555019103e9aec6d570a84e7fa812ec94f632a165c80790078d8f22184ad"
+  },
+  "revision": "abf4c4cb35735e4f4ef0b84c1436b961bcaac64b1ef34372d6bf107792c4985f"
+}
